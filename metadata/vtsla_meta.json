@@ -1,8 +1,8 @@
 {
-  "name": "virtual TSLA",
-  "symbol": "vTSLA",
-  "description": "virtual TSLA",
+  "name": "AAPL",
+  "symbol": "AAPL",
+  "description": "AAPL",
   "decimals": 6,
-  "image": "https://github.com/ginkosafe/assets/blob/master/icons/vTSLA.png?raw=true",
-  "uri": "https://github.com/ginkosafe/assets/blob/master/metadata/vtsla_meta.json?raw=true"
+  "image": "https://github.com/ginkosafe/assets/blob/master/icons/AAPL.png?raw=true",
+  "uri": "https://github.com/ginkosafe/assets/blob/master/metadata/aapl_meta.json?raw=true"
 }

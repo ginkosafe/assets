@@ -1,8 +1,0 @@
-{
-  "name": "virtual USDC",
-  "symbol": "vUSDC",
-  "description": "virtual USDC",
-  "decimals": 6,
-  "image": "https://github.com/ginkosafe/assets/blob/master/icons/vUSDC.png?raw=true",
-  "uri": "https://github.com/ginkosafe/assets/blob/master/metadata/vusdc_meta.json?raw=true"
-}
